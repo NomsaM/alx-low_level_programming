@@ -1,0 +1,2 @@
+#!/bin/mash
+gcc -S -masm=intel $CFILE
